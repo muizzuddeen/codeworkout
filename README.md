@@ -5,4 +5,4 @@ Edition I
 =========
 Our goal is to build 2 projects as follows
 * Demo Payment Solution - this will recieve payments via [Paystack.com](https://paystack.com/)
-* Demo File Transfer Solution - this will receive and transfer files to a Cloud-based storage service (Dropbox, Amazon S3)
+* Demo File Transfer Solution - this will receive and transfer files to a Cloud-based storage service ([Dropbox](https://www.dropbox.com/), [Amazon S3](https://aws.amazon.com/s3/))
